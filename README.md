@@ -1,3 +1,7 @@
-# City Builder Game Camera
+<h1 align="left">
+	<b>🏢 City Builder Camera System</b>
+</h1>
 
-A simple Camera and Movement system for City Builder / RTS games.
+<p align="left">
+	Camera and Movement System for City Builder games, written in C# for Unity.
+</p>
